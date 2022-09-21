@@ -1,0 +1,7 @@
+Trabajo realizado por: Gabriel Barahona Otoya B70896
+Laboratorio de Microcontroladores IE-0624
+Laboratorio #2
+
+IMPORTANTE:
+Solamente se incluyeron los archivos importantes. (.c, .simu, Makefile)
+Para ejecutar el código y obtener el archivo .hex que se le carga al microcontrolador se debe ejecutar el comando "make" en la terminal. 
